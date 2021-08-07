@@ -7,4 +7,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Arco"
 include ':app'
-include ':arco-core'
+include ':arcolib'
+include ':arcolib:core'
+include ':arcolib:viewbinding'
