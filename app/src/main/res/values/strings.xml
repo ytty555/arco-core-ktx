@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Arco</string>
+    <string name="res_id_text">String by stringResid</string>
+    <string name="formatted_string">Formatted string %d</string>
 </resources>

@@ -29,6 +29,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    buildFeatures {
+        viewBinding true
+    }
 }
 
 dependencies {
@@ -39,6 +42,7 @@ dependencies {
     implementation "androidx.constraintlayout:constraintlayout:$ver_constraintlayout"
 
     implementation project(":arcolib:core")
+    implementation project(":arcolib:android-core")
 
     testImplementation "junit:junit:$ver_junit"
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
