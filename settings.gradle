@@ -9,4 +9,4 @@ rootProject.name = "Arco"
 include ':app'
 include ':arcolib'
 include ':arcolib:core'
-include ':arcolib:viewbinding'
+include ':arcolib:android-core'

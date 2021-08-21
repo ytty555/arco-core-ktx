@@ -1,4 +1,4 @@
-package ru.okcode.arco.viewbinding
+package ru.okcode.arco.android_core
 
 import org.junit.Test
 

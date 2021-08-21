@@ -1,4 +1,4 @@
-package ru.okcode.arco.viewbinding
+package ru.okcode.arco.android_core
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ru.okcode.viewbinding.test", appContext.packageName)
+        assertEquals("ru.okcode.arco.android_core.test", appContext.packageName)
     }
 }

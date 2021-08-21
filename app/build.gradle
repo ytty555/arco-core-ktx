@@ -38,7 +38,6 @@ dependencies {
     implementation "com.google.android.material:material:$ver_material"
     implementation "androidx.constraintlayout:constraintlayout:$ver_constraintlayout"
 
-    implementation project(":arcolib:viewbinding")
     implementation project(":arcolib:core")
 
     testImplementation "junit:junit:$ver_junit"

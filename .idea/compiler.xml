@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="Arco.app" target="11" />
+      <module name="Arco.arcolib.android-core" target="11" />
       <module name="Arco.arcolib.viewbinding" target="11" />
     </bytecodeTargetLevel>
   </component>

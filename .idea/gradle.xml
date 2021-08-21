@@ -12,8 +12,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/arcolib" />
+            <option value="$PROJECT_DIR$/arcolib/android-core" />
             <option value="$PROJECT_DIR$/arcolib/core" />
-            <option value="$PROJECT_DIR$/arcolib/viewbinding" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
